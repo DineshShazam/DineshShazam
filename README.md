@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DineshShazam.
-- 👀 I’m interested in MERN Stack and Serverless Cloud.
-- 🌱 I’m currently learning Golang.
+- 👀 I’m Senior CLoud Enginer.
+- 🌱 I’m currently learning Cloud Automation.
+- Passionate towards Cloud and Machine Learning.
 - 📫 How to reach me dineshshazam@gmail.com. 
 - https://dineshdinu1607.wixsite.com/mysite.
 
