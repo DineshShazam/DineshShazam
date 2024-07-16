@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DineshShazam.
-- 👀 I’m Senior CLoud Enginer.
-- 🌱 I’m currently learning Cloud Automation.
-- Passionate towards Cloud and Machine Learning.
+- 👀 I’m a Senior Cloud Engineer.
+- 🌱 I’m currently learning Cloud Security.
+- Passionate towards Cloud and Information security.
 - 📫 How to reach me dineshshazam@gmail.com. 
 - https://dineshdinu1607.wixsite.com/mysite.
 
